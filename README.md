@@ -1,5 +1,3 @@
-# animation_issue
-
 A issue persistent_bottom_nav_bar with OpenContainer animation
 
 ### Note:<br>
