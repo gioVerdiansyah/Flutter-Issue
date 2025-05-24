@@ -19,6 +19,7 @@ class HomeScreen extends StatelessWidget {
               transitionDuration: Duration(milliseconds: 600),
               closedElevation: 0,
               closedShape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+              useRootNavigator: true,
               closedBuilder: (context, openContainer) {
                 return _buildButtonIssue(
                   title: "Issue 1",
